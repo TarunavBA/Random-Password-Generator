@@ -1,13 +1,13 @@
 import random
+import time
 
 print("Welcome to the random password generator!")
+time.sleep(0.2) 
 
-numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
-#alphabets = []
 
-number = input("How much in letters should be your password?: ")
-
-for i in numbers:
-    random.randint(0, numbers)
-
-print(i) 
+alphabets = ["a", "B", "c", "D", "e", "F", "g", "H", "i", "J", "k", "L", "m", "N", "o", "P", "q", "R", "s", "T", "u", "V", "w", "X", "y", "Z"]
+abcd = random.randint(10, 40)
+roundoff = round(abcd/10)
+eight = int(10000000)
+twothree = eight + random.randint(0, 100000) 
+print("your password is: " + alphabets[roundoff] + str(twothree))
