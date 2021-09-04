@@ -9,3 +9,5 @@
 
 
 ![Screenshot](https://raw.githubusercontent.com/TarunavBA/Random-Password-Generator/main/images/Capture_3.JPG)
+
+Want to contribute? Take a look at [Contributing.md](contributing.md)
