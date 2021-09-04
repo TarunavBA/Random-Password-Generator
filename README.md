@@ -2,4 +2,4 @@
 ### A command line program for generate safe passwords
 
 ## Screenshots:
-![Capture.jpg](./images/Capture.jpg)
+![Capture.jpg](https://github.com/TarunavBA/Random-Password-Generator/blob/main/images/Capture.JPG)
